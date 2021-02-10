@@ -1,0 +1,23 @@
+{
+  "name": "sheetql",
+  "version": "1.0.0",
+  "description": "SQL-ish but on csv/excels. Hopefully.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stupendoussuperpowers/sheetql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stupendoussuperpowers/sheetql/issues"
+  },
+  "homepage": "https://github.com/stupendoussuperpowers/sheetql#readme",
+  "dependencies": {
+    "csv": "^5.3.2",
+    "csvtojson": "^2.0.10"
+  }
+}
